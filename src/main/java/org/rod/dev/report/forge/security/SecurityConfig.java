@@ -120,7 +120,7 @@ public class SecurityConfig {
     @Bean
     public CorsConfigurationSource corsConfigurationSource() {
         CorsConfiguration config = new CorsConfiguration();
-        config.setAllowedOrigins(List.of("https://vercel.com/rrxdg777s-projects/dev-report-forge/8buBdwmDrJBjLDbGo5PAQq3eMDWL"));
+        config.setAllowedOrigins(List.of("https://dev-report-forge.vercel.app/"));
         config.setAllowedMethods(List.of("GET", "POST", "PUT", "DELETE", "OPTIONS"));
         config.setAllowedHeaders(List.of("*"));
         config.setExposedHeaders(List.of("Authorization", "Content-Type"));
