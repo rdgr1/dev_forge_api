@@ -175,11 +175,8 @@ Requer uma chave válida (gemini.api.key).
 
 ⸻
 
-📄 Licença
+#### 📄 Licença
 
 Distribuído sob a licença MIT.
 Use, modifique e aprenda livremente.
 
-⸻
-
-Quer que eu adicione um bloco visual com o fluxo JWT + Gemini (em diagrama Markdown tipo Mermaid) mostrando o caminho login → geração de token → requisição protegida → resposta AI dentro do README? Isso deixaria o projeto ainda mais apresentável.
