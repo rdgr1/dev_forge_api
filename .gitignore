@@ -5,6 +5,7 @@ target/
 !**/src/test/**/target/
 src/main/resources
 src/main/java/org/rod/dev/report/forge/security/SecurityConfig.java
+src/main/java/org/rod/dev/report/forge/config/StartupRunner.java
 ### STS ###
 .apt_generated
 .classpath
